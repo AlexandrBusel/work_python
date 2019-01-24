@@ -1,0 +1,103 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 786550557,
+      "message": {
+        "message_id": 9,
+        "from": {
+          "id": 722453543,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 722453543,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "type": "private"
+        },
+        "date": 1547574234,
+        "text": "btc"
+      }
+    },
+    {
+      "update_id": 786550558,
+      "message": {
+        "message_id": 10,
+        "from": {
+          "id": 722453543,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 722453543,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "type": "private"
+        },
+        "date": 1547574498,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 786550559,
+      "message": {
+        "message_id": 12,
+        "from": {
+          "id": 722453543,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 722453543,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "type": "private"
+        },
+        "date": 1547652059,
+        "text": "work!"
+      }
+    },
+    {
+      "update_id": 786550560,
+      "message": {
+        "message_id": 13,
+        "from": {
+          "id": 722453543,
+          "is_bot": false,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 722453543,
+          "first_name": "Alexandr",
+          "username": "AleksandrBus",
+          "type": "private"
+        },
+        "date": 1547653869,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
